@@ -2,6 +2,8 @@
 
 The contract for [XCart](https://xcart.io) BTC Sneakers. Follow [ERC1155](https://eips.ethereum.org/EIPS/eip-1155) token standard.
 
+Under The Mit Lisence.
+
 ![image](https://xcart.io/_nuxt/banner.c74db615.png)
 
 
